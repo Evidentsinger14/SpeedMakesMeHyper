@@ -1,0 +1,7 @@
+name: SpeedMakesMeHyper
+version: '${project.version}'
+main: dev.ev1dent.speedmakesmehyper.SpeedPlugin
+api-version: '1.20'
+commands:
+  speed:
+    description: speed command.
