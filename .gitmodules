@@ -1,0 +1,3 @@
+[submodule "src/main/java/dev/ev1dent/speedmakesmehyper/utils/smp2bot"]
+	path = src/main/java/dev/ev1dent/speedmakesmehyper/utils/smp2bot
+	url = https://github.com/evidentsinger14/smp2bot
